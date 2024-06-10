@@ -32,7 +32,4 @@ Here are some ideas to get you started:
 -->
 
 ## About Me 
-#### A Software Engineering students at King Fahd University of Petroleum and Minerals, which is located in Dhahran, SA. I am expected to graduate on 2024 with a Bachelor of Science degree. 
-
-## My skillset 
-#### I possess the ability to program apps in Java, Python, Dart, and Flutter programming languages. In the near future I will be able to program in Javascript and C++. In addition, I have an enough knowledge of Artificial Intelligence and Machine Learning. 
+#### A Software Engineer Graduating from King Fahd University of Petroleum and Minerals. Currently working at Software AG, one of the biggest B2B IT soulution provider in the world.
