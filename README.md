@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/YazeedAlsaeed">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yazeed+Alsaeed;Software+Engineering+Student+%7C+At+KFUPM;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yazeed+Alsaeed;Software+Engineer+Graduate+%7C+@+KFUPM;" alt="Typing SVG" />
 </a>
 <br/>
 
